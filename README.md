@@ -1,2 +1,2 @@
 # CursoDjango
-Projetos feitos no django
+Projetos feitos no django...
